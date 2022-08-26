@@ -1,5 +1,9 @@
 # C# Практика #
 
+### Полезные ссылки
+- https://docs.microsoft.com/ru-ru/dotnet/csharp/
+- https://www.codewars.com/
+
 ## Lesson_01
 - Start  12:30 07.08.22
 - End 14:45 07.08.22
@@ -27,3 +31,7 @@
 - End 19:00 25.08.22
 - Start 22:30 25.08.22
 - End 23:40 25.08.22
+
+## Lesson_06
+- Start 18:00 26.08.22
+- End 19:00 26.08.22
