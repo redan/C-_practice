@@ -3,6 +3,7 @@
 ### Полезные ссылки
 - https://docs.microsoft.com/ru-ru/dotnet/csharp/
 - https://www.codewars.com/
+- https://ci-sharp.ru/Teaching/
 
 ## Lesson_01
 - Start  12:30 07.08.22
@@ -39,3 +40,7 @@
 ## Lesson_07
 - Start 20:42 31.08.22
 - End 23:50 31.08.22
+
+## Lesson_08
+- Start 21:52 05.09.22
+- End 23:50 05.09.22
